@@ -1,1 +1,2 @@
 File is created on new branch called newfeature
+new line is added
